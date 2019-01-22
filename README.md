@@ -23,6 +23,7 @@
 
 文件名 | 说明
 --- | ---
+Renderings | 效果图
 icon | 存放图标的文件夹
 DefaultTouchBar.bttpreset | 默认 TouchBar 配置文件
 LatestTouchBar.bttpreset | 最新 TouchBar 配置文件
