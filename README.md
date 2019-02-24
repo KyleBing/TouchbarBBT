@@ -36,3 +36,6 @@ Touchbar BTT.sketch | 图标设计文件 sketch 格式
 
 ![Desgin](https://github.com/KyleBing/TouchbarBBT/blob/master/Renderings/0-default.png)
 ![Real](https://github.com/KyleBing/TouchbarBBT/blob/master/Renderings/keyboard.jpg)
+
+
+> 相关链接： CSDN https://blog.csdn.net/KimBing/article/details/87902563
