@@ -1,4 +1,4 @@
-![HomePhoto](https://github.com/KyleBing/TouchbarBBT/blob/master/Renderings/photo.jpg)
+![HomePhoto](https://github.com/KyleBing/TouchbarBBT/blob/master/Renderings/cover.jpg)
 # TouchbarBBT
 
 > 主意在美化 Macbook pro 上的 Touchbar，其变的更好用，更好看
@@ -26,7 +26,6 @@
 Renderings | 效果图
 icon | 存放图标的文件夹
 DefaultTouchBar.bttpreset | 默认 TouchBar 配置文件
-LatestTouchBar.bttpreset | 最新 TouchBar 配置文件
 README.md | 说明文件
 Touchbar BTT.sketch | 图标设计文件 sketch 格式
  
@@ -35,6 +34,5 @@ Touchbar BTT.sketch | 图标设计文件 sketch 格式
  
 ## 效果图
 
-![Desgin](https://github.com/KyleBing/TouchbarBBT/blob/master/Renderings/0%20-%20default.png)
-![Desgin](https://github.com/KyleBing/TouchbarBBT/blob/master/Renderings/1.png)
-![Desgin](https://github.com/KyleBing/TouchbarBBT/blob/master/Renderings/2.png)
+![Desgin](https://github.com/KyleBing/TouchbarBBT/blob/master/Renderings/0-default.png)
+![Real](https://github.com/KyleBing/TouchbarBBT/blob/master/Renderings/keyboard.jpg)
