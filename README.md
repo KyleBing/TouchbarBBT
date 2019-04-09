@@ -1,5 +1,5 @@
 ![HomePhoto](https://github.com/KyleBing/TouchbarBBT/blob/master/Renderings/cover.jpg)
-# TouchbarBBT
+# TouchbarBTT
 
 > 主意在美化 Macbook pro 上的 Touchbar，其变的更好用，更好看
 
